@@ -1,5 +1,7 @@
 # 💫 About Me:
-:mortar_board: Currently a 3rd-year BS Computer Science Student<br>:bulb: Interested in the field of Data Analytics/Management and Artificial Intelligence<br>:mag_right: Currently exploring and learning fields like android app and web development<br><br>
+:mortar_board: Currently a 3rd-year BS Computer Science student<br>
+:bulb: Interested in the field of Data Analytics/Management and Artificial Intelligence<br>
+:mag_right: Currently exploring and learning fields like android app and web development<br><br>
 
 
 ## 🌐 Socials:
