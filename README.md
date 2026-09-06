@@ -1,5 +1,5 @@
-# 💫 About Me:
-:mortar_board: Currently a 4th-year BS Computer Science student<br>
+#  About Me:
+:mortar_board: A BS Computer Science graduate <br>
 :bulb: Interested in the field of Data Analytics/Management and Artificial Intelligence<br>
 :mag_right: Currently working on machine learning and subfield of data science (EDA)<br><br>
 
