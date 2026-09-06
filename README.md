@@ -1,5 +1,5 @@
 # 🎓 About Me:
-:graduation_cap: **BS Computer Science Graduate** | DOST Scholar <br>
+🎓 **BS Computer Science Graduate** | DOST Scholar <br>
 :bulb: **Focus:** Data Engineering, Machine Learning Architecture, & Technical Project Management <br>
 :mag_right: **Current Work:** Exploratory Data Analysis (EDA), scalable AI models, and software test automation <br>
 :rocket: **Goal:** Building production-ready technology solutions that drive operational efficiency and measurable impact <br>
